@@ -1,5 +1,5 @@
 # Light
-An simple app, called "Light", that changes the screen from black to white, and back again, whenever the user taps the screen. This project uses the Swift language.
+Light is a simple full-screen flashlight app, where the user taps the screen to toggle its color between black and white.
 
 ## Credits
 Apple Education. „App Development with Swift.“ Apple Inc. - Education, 2017. iBooks. https://itun.es/de/SoKQib.l
